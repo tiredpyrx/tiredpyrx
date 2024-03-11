@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @tiredpyrx
-- 👀 I’m interested in Laravel devolopment and creating simple and elegant libraries
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in Laravel devolopment
 - 📫 You can reach me via email -> dogakorkmaz09@gmail.com
